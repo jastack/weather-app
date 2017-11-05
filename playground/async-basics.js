@@ -9,4 +9,5 @@ setTimeout(() => {
   console.log('Second callback');
 }, 0);
 
+console.log("More stuff");
 console.log('Finishing up');
